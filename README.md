@@ -28,7 +28,7 @@ Install the requirements to your virtual environment via pip:
 pip install -r requirements.txt
 ```
 
-To run via ```A3main.py```, your command should take the following form:
+To run via ```main.py```, your command should take the following form:
 ```shell script
 python3 main.py <task_id> <train|test|predict>
 ```
